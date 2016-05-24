@@ -1,4 +1,4 @@
-# RailsBootstrapConfirm
+# RailsBootstrapConfirm[![Build Status](https://travis-ci.org/edwardbako/rails_bootstrap_confirm.svg?branch=master)](https://travis-ci.org/edwardbako/rails_bootstrap_confirm)
 
 This is a small gem that replaces browser standard confirmation dialogue to pretty Bootstrap styled
 modal dialogue.
