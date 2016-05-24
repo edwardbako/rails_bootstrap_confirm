@@ -21,6 +21,12 @@ Or install it yourself as:
 
 ## Usage
 
+In your manifest file(e.g. application.js add
+```ruby
+//= require rails_bootstrap_confirm
+```
+
+And then in views
 ```ruby
   link_to 'Name', some_action_path, data: {confirm: 'Are you sure?',
                                            header: 'Confirm, please',
